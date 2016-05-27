@@ -1,0 +1,13 @@
+setuptools
+numpy
+scipy
+scikit-learn
+nibabel
+matplotlib
+pandas
+brian
+mne
+h5py
+statsmodels
+seaborn
+ecogtools
